@@ -2,8 +2,8 @@
 <h3 align="center">QA Engineer turned Web Developer | Passionate about Automation & Modern Web Tech</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuchen-lin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jefflin1201/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jefflin1201@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/oharu121"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -19,8 +19,6 @@ I’m a Tokyo-based developer with a background in QA engineering and IT infrast
 - 🗣 Fluent in Japanese (JLPT N1), English (TOEIC 904), and Mandarin
 - 🌏 Open to remote roles in modern product teams
 
----
-
 ## 🔧 Skills & Tools
 
 <p align="left">
@@ -33,8 +31,6 @@ I’m a Tokyo-based developer with a background in QA engineering and IT infrast
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
 </p>
 
----
-
 ## 🚀 Projects
 
 ### [CookShare 🍳](https://github.com/oharu121/cookshare)
@@ -44,8 +40,6 @@ A recipe-sharing app with ingredient-based search, shopping list generation, and
 - Built with: Next.js, Supabase, Prisma, Tailwind CSS, TypeScript
 - Features: Authentication, search, filters, real-time DB updates
 
----
-
 ### Internal Automation Tools 🔧
 
 Developed tools used by telecom teams for:
@@ -54,16 +48,12 @@ Developed tools used by telecom teams for:
 - Streamlining reporting workflows using Power Automate, Graph API, Outlook, Box, Salesforce, and Kintone
 - Reducing manual labor through PowerShell, Viber API, and Excel automation
 
----
-
 ## 🧠 Learning Focus
 
 - Web: Improving full-stack skills with Next.js and Svelte
 - DevOps: Practicing CI/CD, Docker, and GCP deployments
 - Infra: Exploring Cloud Run, Supabase, and edge deployments
 - Soft Skills: Team leadership and code quality practices
-
----
 
 ## 📈 GitHub Stats
 
@@ -74,8 +64,6 @@ Developed tools used by telecom teams for:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oharu121&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 <p align="center">
   I'm passionate about building practical tools that improve productivity and user experience. Let's connect and build something impactful together!
