@@ -7,8 +7,6 @@
   <a href="https://github.com/oharu121"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I’m a Tokyo-based developer with a background in QA engineering and IT infrastructure. I’ve built internal automation tools, web applications, and DevOps workflows, driven by a desire to solve real-world problems through tech.
