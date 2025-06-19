@@ -70,6 +70,6 @@ Developed tools used by telecom teams for:
   <img src="https://github-profile-trophy.vercel.app/?username=oharu121&theme=juicyfresh&no-bg=true" alt="Yuchen's trophies" />
 </p>
 
-<p align="center">
+<p>
   I'm passionate about building practical tools that improve productivity and user experience. Let's connect and build something impactful together!
 </p>
