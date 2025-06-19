@@ -60,14 +60,14 @@ Developed tools used by telecom teams for:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
-    <img src="https://github-readme-stats.vercel.app/api?username=oharu121&show_icons=true&theme=radical" alt="Yuchen's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oharu121&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/oharu121">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oharu121&show_icons=true&theme=radical" alt="Yuchen's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oharu121&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oharu121&theme=juicyfresh&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oharu121&theme=juicyfresh&no-bg=true" alt="Yuchen's trophies" />
 </p>
 
 <p align="center">
