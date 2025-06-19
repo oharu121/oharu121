@@ -68,5 +68,9 @@ Developed tools used by telecom teams for:
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oharu121&theme=juicyfresh&no-bg=true" />
+</p>
+
+<p align="center">
   I'm passionate about building practical tools that improve productivity and user experience. Let's connect and build something impactful together!
 </p>
