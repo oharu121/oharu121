@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Yuchen 👋</h1>
+<h1 align="center"><b>Hi there, I'm Yuchen</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=QA Engineer turned Web Developer;Passionate about Automation & Modern Web Tech"></a>
+</p>
 <h3 align="center">QA Engineer turned Web Developer | Passionate about Automation & Modern Web Tech</h3>
 
 <p align="center">
@@ -17,7 +20,7 @@ I’m a Tokyo-based developer with a background in QA engineering and IT infrast
 - 🗣 Fluent in Japanese (JLPT N1), English (TOEIC 904), and Mandarin
 - 🌏 Open to remote roles in modern product teams
 
-## 🔧 Skills & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
@@ -53,7 +56,7 @@ Developed tools used by telecom teams for:
 - Infra: Exploring Cloud Run, Supabase, and edge deployments
 - Soft Skills: Team leadership and code quality practices
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oharu121&show_icons=true&theme=radical" alt="Yuchen's GitHub stats" />
