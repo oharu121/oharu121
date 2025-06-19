@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi there, I'm Yuchen</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=QA Engineer turned Web Developer;Passionate about Automation & Modern Web Tech"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=QA+Engineer+turned+Web+Developer;Passionate+about+Automation+%26+Modern+Web+Tech" alt="Typing SVG" />
+  </a>
 </p>
-<h3 align="center">QA Engineer turned Web Developer | Passionate about Automation & Modern Web Tech</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jefflin1201/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
