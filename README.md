@@ -22,11 +22,9 @@ I'm a Tokyo-based full-stack developer who builds web apps and automation tools.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,docker&theme=dark" alt="Skills" />
+  </a>
 </p>
 
 ## 🚀 Projects
@@ -62,7 +60,11 @@ Create ASCII art logos with gradient colors for CLI applications.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oharu121&theme=juicyfresh&no-bg=true" alt="Yuchen's trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=oharu121&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oharu121&theme=radical&no-bg=true&row=1&column=6" alt="Yuchen's trophies" />
 </p>
 
 <p align="center">
